@@ -1,0 +1,4 @@
+.vscode/
+datasets/
+._*
+weights*
